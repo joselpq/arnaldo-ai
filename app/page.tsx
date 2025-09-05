@@ -222,8 +222,8 @@ export default function Home() {
                 {"⭐⭐⭐⭐⭐"}
               </div>
               <p className="text-gray-700 mb-4">
-                "Finalmente consegui criar o hábito de poupar! O Arnaldo me ajuda 
-                todos os dias com dicas personalizadas. Já tenho 3 meses de reserva!"
+                &ldquo;Finalmente consegui criar o hábito de poupar! O Arnaldo me ajuda 
+                todos os dias com dicas personalizadas. Já tenho 3 meses de reserva!&rdquo;
               </p>
               <div className="flex items-center">
                 <div className="bg-green-100 w-10 h-10 rounded-full flex items-center justify-center text-green-700 font-bold">
@@ -240,8 +240,8 @@ export default function Home() {
                 {"⭐⭐⭐⭐⭐"}
               </div>
               <p className="text-gray-700 mb-4">
-                "Fazer PIX por áudio mudou minha vida! Uso o Arnaldo para tudo: 
-                pagar contas, transferir dinheiro, controlar gastos. É muito prático!"
+                &ldquo;Fazer PIX por áudio mudou minha vida! Uso o Arnaldo para tudo: 
+                pagar contas, transferir dinheiro, controlar gastos. É muito prático!&rdquo;
               </p>
               <div className="flex items-center">
                 <div className="bg-green-100 w-10 h-10 rounded-full flex items-center justify-center text-green-700 font-bold">
@@ -258,8 +258,8 @@ export default function Home() {
                 {"⭐⭐⭐⭐⭐"}
               </div>
               <p className="text-gray-700 mb-4">
-                "Sempre tive medo de investir, mas o Arnaldo tornou tudo simples. 
-                Hoje meu dinheiro rende 100% do CDI e posso sacar quando quiser!"
+                &ldquo;Sempre tive medo de investir, mas o Arnaldo tornou tudo simples. 
+                Hoje meu dinheiro rende 100% do CDI e posso sacar quando quiser!&rdquo;
               </p>
               <div className="flex items-center">
                 <div className="bg-green-100 w-10 h-10 rounded-full flex items-center justify-center text-green-700 font-bold">

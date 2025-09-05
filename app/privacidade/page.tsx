@@ -29,7 +29,7 @@ export default function PrivacidadePage() {
             <p className="text-sm text-gray-500 mb-6">Última atualização: Janeiro de 2024</p>
             
             <p className="mb-6">
-              A Arnaldo ("nós", "nosso" ou "nos") opera o serviço de gestão financeira 
+              A Arnaldo (&ldquo;nós&rdquo;, &ldquo;nosso&rdquo; ou &ldquo;nos&rdquo;) opera o serviço de gestão financeira 
               através do WhatsApp. Esta Política de Privacidade informa sobre nossas políticas 
               e procedimentos sobre coleta, uso e divulgação de informações quando você usa 
               nosso Serviço.

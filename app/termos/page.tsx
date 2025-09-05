@@ -29,7 +29,7 @@ export default function TermosPage() {
             <p className="text-sm text-gray-500 mb-6">Última atualização: Janeiro de 2024</p>
             
             <p className="mb-6">
-              Bem-vindo ao Arnaldo. Estes Termos e Condições ("Termos") regem o uso de nossos 
+              Bem-vindo ao Arnaldo. Estes Termos e Condições (&ldquo;Termos&rdquo;) regem o uso de nossos 
               serviços de gestão financeira através do WhatsApp. Ao utilizar nossos serviços, 
               você concorda com estes Termos.
             </p>
