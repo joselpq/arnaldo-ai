@@ -312,11 +312,12 @@ export default function Home() {
               </p>
             </div>
             <div>
-              <h4 className="font-semibold mb-4">Produto</h4>
+              <h4 className="font-semibold mb-4">Recursos</h4>
               <ul className="space-y-2 text-gray-400">
-                <li><a href="#" className="hover:text-white">Como funciona</a></li>
-                <li><a href="#" className="hover:text-white">Recursos</a></li>
-                <li><a href="#" className="hover:text-white">Segurança</a></li>
+                <li><Link href="/gastos-semanais" className="hover:text-white">Controle de Gastos</Link></li>
+                <li><Link href="/detectar-fraudes" className="hover:text-white">Detectar Fraudes</Link></li>
+                <li><Link href="/gerenciar-assinaturas" className="hover:text-white">Gerenciar Assinaturas</Link></li>
+                <li><Link href="/controle-orcamento" className="hover:text-white">Controle Orçamento</Link></li>
               </ul>
             </div>
             <div>
